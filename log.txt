@@ -1,0 +1,35 @@
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\Users\mgrac\Test
+
+02/16/2023  02:27 PM    <DIR>          .
+02/16/2023  01:59 PM    <DIR>          ..
+02/10/2023  09:27 AM                36 afficher.bat
+02/15/2023  08:01 PM               105 cmdLoop.bat
+02/09/2023  04:11 PM               164 compile.bat
+02/09/2023  03:23 PM               163 dirfiles.bat
+02/10/2023  10:56 AM                81 ex3.bat
+02/10/2023  11:02 AM                77 ex4.bat
+02/15/2023  08:03 PM               212 exampleLoop.bat
+02/10/2023  09:54 AM                85 exercice1.bat
+02/10/2023  10:08 AM               430 FirstProgram.class
+02/09/2023  04:11 PM               121 FirstProgram.java
+02/15/2023  07:41 PM                50 forLoop
+02/15/2023  08:00 PM               212 forLoop.bat
+02/15/2023  07:37 PM               119 globalVar.bat
+02/09/2023  04:05 PM               124 HelloWorld.java
+02/10/2023  10:51 AM                59 javaHome.bat
+02/09/2023  03:37 PM               163 lists.bat
+02/09/2023  04:11 PM               986 lists.text
+02/16/2023  02:27 PM                 0 log.txt
+02/15/2023  07:34 PM                70 numeric.bat
+02/09/2023  04:16 PM                14 result.txt
+02/15/2023  07:33 PM                67 setCommand.bat
+02/15/2023  07:36 PM               103 somme.bat
+02/10/2023  08:36 AM                35 test.txt
+02/10/2023  08:36 AM                35 test1.txt
+02/15/2023  07:30 PM                40 variables.bat
+02/10/2023  10:27 AM                53 villes.txt
+              26 File(s)          3,604 bytes
+               2 Dir(s)  923,358,617,600 bytes free

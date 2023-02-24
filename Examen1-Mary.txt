@@ -1,0 +1,1168 @@
+
+C:\>mkdir python oracle html java
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/17/2023  09:02 AM    <DIR>          html
+02/17/2023  09:02 AM    <DIR>          java
+02/17/2023  09:02 AM    <DIR>          oracle
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/17/2023  09:02 AM    <DIR>          python
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              10 Dir(s)  921,476,542,464 bytes free
+
+C:\>cd python
+
+C:\python>echo Hello livre1python >> livre1python.txt
+
+C:\python>type livre1python.txt
+Hello livre1python
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:03 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+               1 File(s)             21 bytes
+               1 Dir(s)  921,475,575,808 bytes free
+
+C:\python>cd ..
+
+C:\>cd oracle
+
+C:\oracle>echo Hello livre1oracle >> livreoracle.txt
+
+C:\oracle>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle
+
+02/17/2023  09:04 AM    <DIR>          .
+02/17/2023  09:04 AM                21 livreoracle.txt
+               1 File(s)             21 bytes
+               1 Dir(s)  921,475,403,776 bytes free
+
+C:\oracle>type livreoracle
+The system cannot find the file specified.
+
+C:\oracle>type livreoracle.txt
+Hello livre1oracle
+
+C:\oracle>Ren livreoracle.txt livre1oracle.txt
+
+C:\oracle>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle
+
+02/17/2023  09:05 AM    <DIR>          .
+02/17/2023  09:04 AM                21 livre1oracle.txt
+               1 File(s)             21 bytes
+               1 Dir(s)  921,475,141,632 bytes free
+
+C:\oracle>cd ..
+
+C:\>html
+
+C:\>cd html
+
+C:\html>cd ..
+
+C:\>cd oracle
+
+C:\oracle>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle
+
+02/17/2023  09:05 AM    <DIR>          .
+02/17/2023  09:04 AM                21 livre1oracle.txt
+               1 File(s)             21 bytes
+               1 Dir(s)  921,474,473,984 bytes free
+
+C:\oracle>type livre1oracle.txt
+Hello livre1oracle
+
+C:\oracle>cd ..
+
+C:\>cd html
+
+C:\html>echo Hello livre1html > livre1html.txt
+
+C:\html>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html
+
+02/17/2023  09:06 AM    <DIR>          .
+02/17/2023  09:06 AM                19 livre1html.txt
+               1 File(s)             19 bytes
+               1 Dir(s)  921,474,203,648 bytes free
+
+C:\html>type livre1html.txt
+Hello livre1html
+
+C:\html>cd ..
+
+C:\>cd java
+
+C:\java>echo Hello livre1java > livre1java.txt
+
+C:\java>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java
+
+02/17/2023  09:06 AM    <DIR>          .
+02/17/2023  09:06 AM                19 livre1java.txt
+               1 File(s)             19 bytes
+               1 Dir(s)  921,474,068,480 bytes free
+
+C:\java>type livre1java.txt
+Hello livre1java
+
+C:\java>cd ..
+
+C:\>cd python
+
+C:\python>mkdir python1 python2 python3
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:07 AM    <DIR>          python1
+02/17/2023  09:07 AM    <DIR>          python2
+02/17/2023  09:07 AM    <DIR>          python3
+               1 File(s)             21 bytes
+               4 Dir(s)  921,473,949,696 bytes free
+
+C:\python>cd ..
+
+C:\>cd oracle
+
+C:\oracle>mkdir oracle1 oracle2 oracle3
+
+C:\oracle>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:04 AM                21 livre1oracle.txt
+02/17/2023  09:07 AM    <DIR>          oracle1
+02/17/2023  09:07 AM    <DIR>          oracle2
+02/17/2023  09:07 AM    <DIR>          oracle3
+               1 File(s)             21 bytes
+               4 Dir(s)  921,473,687,552 bytes free
+
+C:\oracle>cd ..
+
+C:\>cd html
+
+C:\html>mkdir html1 html2 html3
+
+C:\html>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          html1
+02/17/2023  09:07 AM    <DIR>          html2
+02/17/2023  09:07 AM    <DIR>          html3
+02/17/2023  09:06 AM                19 livre1html.txt
+               1 File(s)             19 bytes
+               4 Dir(s)  921,475,420,160 bytes free
+
+C:\html>cd ..
+
+C:\>cd java
+
+C:\java>mkdir java1 java2 jva3
+
+C:\java>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java
+
+02/17/2023  09:08 AM    <DIR>          .
+02/17/2023  09:08 AM    <DIR>          java1
+02/17/2023  09:08 AM    <DIR>          java2
+02/17/2023  09:08 AM    <DIR>          jva3
+02/17/2023  09:06 AM                19 livre1java.txt
+               1 File(s)             19 bytes
+               4 Dir(s)  921,460,072,448 bytes free
+
+C:\java>cd ..
+
+C:\>cd python
+
+C:\python>echo Hello livre2python >> livre2python.txt
+
+C:\python>copy livre2python.txt  python2
+        1 file(s) copied.
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:07 AM    <DIR>          python1
+02/17/2023  09:09 AM    <DIR>          python2
+02/17/2023  09:07 AM    <DIR>          python3
+               2 File(s)             42 bytes
+               4 Dir(s)  921,458,040,832 bytes free
+
+C:\python>cd python2
+
+C:\python\python2>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python\python2
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:09 AM    <DIR>          ..
+02/17/2023  09:09 AM                21 livre2python.txt
+               1 File(s)             21 bytes
+               2 Dir(s)  921,457,889,280 bytes free
+
+C:\python\python2>type livre2pyton.txt
+The system cannot find the file specified.
+
+C:\python\python2>livre2python.txt
+
+C:\python\python2>type livre2python.txt
+Hello livre2python
+
+C:\python\python2>cd ..
+
+C:\python>cd python3
+
+C:\python\python3>echo Hello livre2python > livre3python.txt
+
+C:\python\python3>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python\python3
+
+02/17/2023  09:10 AM    <DIR>          .
+02/17/2023  09:09 AM    <DIR>          ..
+02/17/2023  09:10 AM                21 livre3python.txt
+               1 File(s)             21 bytes
+               2 Dir(s)  921,455,812,608 bytes free
+
+C:\python\python3>cd ..
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:07 AM    <DIR>          python1
+02/17/2023  09:09 AM    <DIR>          python2
+02/17/2023  09:10 AM    <DIR>          python3
+               2 File(s)             42 bytes
+               4 Dir(s)  921,455,620,096 bytes free
+
+C:\python>cd python1
+
+C:\python\python1>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python\python1
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:09 AM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  921,455,742,976 bytes free
+
+C:\python\python1>cd ..
+
+C:\python>copy livre1python.txt >> python1
+Access is denied.
+
+C:\python>copy livre1python.txt > python1
+Access is denied.
+
+C:\python>cd python1
+
+C:\python\python1>echo hello livre1python.txt >> livre1python.txt
+
+C:\python\python1>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python\python1
+
+02/17/2023  09:12 AM    <DIR>          .
+02/17/2023  09:09 AM    <DIR>          ..
+02/17/2023  09:12 AM                25 livre1python.txt
+               1 File(s)             25 bytes
+               2 Dir(s)  921,455,276,032 bytes free
+
+C:\python\python1>type livre1python.txt
+hello livre1python.txt
+
+C:\python\python1>cd ..
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:12 AM    <DIR>          python1
+02/17/2023  09:09 AM    <DIR>          python2
+02/17/2023  09:10 AM    <DIR>          python3
+               2 File(s)             42 bytes
+               4 Dir(s)  921,455,341,568 bytes free
+
+C:\python>cd python2
+
+C:\python\python2>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python\python2
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:09 AM    <DIR>          ..
+02/17/2023  09:09 AM                21 livre2python.txt
+               1 File(s)             21 bytes
+               2 Dir(s)  921,455,210,496 bytes free
+
+C:\python\python2>type livre2python.txt
+Hello livre2python
+
+C:\python\python2>cd ..
+
+C:\python>cd python3
+
+C:\python\python3>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python\python3
+
+02/17/2023  09:10 AM    <DIR>          .
+02/17/2023  09:09 AM    <DIR>          ..
+02/17/2023  09:10 AM                21 livre3python.txt
+               1 File(s)             21 bytes
+               2 Dir(s)  921,455,194,112 bytes free
+
+C:\python\python3>type livre3python.txt
+Hello livre2python
+
+C:\python\python3>cd ..
+
+C:\python>cd ..
+
+C:\>cd oracle
+
+C:\oracle>echo livre1oracle.txt >> oracle1
+Access is denied.
+
+C:\oracle>cd oracle1
+
+C:\oracle\oracle1>echo livre1oracle.txt
+livre1oracle.txt
+
+C:\oracle\oracle1>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle\oracle1
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  921,454,612,480 bytes free
+
+C:\oracle\oracle1>echo hello livre1oracle.txt
+hello livre1oracle.txt
+
+C:\oracle\oracle1>cd
+C:\oracle\oracle1
+
+C:\oracle\oracle1>echo hello livre1oracle > livre1oracle.txt
+
+C:\oracle\oracle1>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle\oracle1
+
+02/17/2023  09:15 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+02/17/2023  09:15 AM                22 livre1oracle.txt
+               1 File(s)             22 bytes
+               2 Dir(s)  921,454,026,752 bytes free
+
+C:\oracle\oracle1>type livre1oracle.txt
+hello livre1oracle
+
+C:\oracle\oracle1>cd ..
+
+C:\oracle>cd oracle2
+
+C:\oracle\oracle2>echo hello livre2oracle >  livre2oracle.txt
+
+C:\oracle\oracle2>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle\oracle2
+
+02/17/2023  09:16 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+02/17/2023  09:16 AM                21 livre2oracle.txt
+               1 File(s)             21 bytes
+               2 Dir(s)  921,455,542,272 bytes free
+
+C:\oracle\oracle2>type livreoracle.txt
+The system cannot find the file specified.
+
+C:\oracle\oracle2>type livre2oracle.txt
+hello livre2oracle
+
+C:\oracle\oracle2>cd ..
+
+C:\oracle>cd oracle3
+
+C:\oracle\oracle3>echo Hello livre2oracle > livre3oracle.txt
+
+C:\oracle\oracle3>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\oracle\oracle3
+
+02/17/2023  09:17 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+02/17/2023  09:17 AM                21 livre3oracle.txt
+               1 File(s)             21 bytes
+               2 Dir(s)  921,453,772,800 bytes free
+
+C:\oracle\oracle3>type livre3oracle.txt
+Hello livre2oracle
+
+C:\oracle\oracle3>cd ..
+
+C:\oracle>cd ..
+
+C:\>cd html
+
+C:\html>cd html1
+
+C:\html\html1>echo hello livre1html > livre1html.txt
+
+C:\html\html1>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html\html1
+
+02/17/2023  09:17 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+02/17/2023  09:17 AM                19 livre1html.txt
+               1 File(s)             19 bytes
+               2 Dir(s)  921,457,070,080 bytes free
+
+C:\html\html1>type livre1html.txt
+hello livre1html
+
+C:\html\html1>cd ..
+
+C:\html>cd html2
+
+C:\html\html2>echo hello livre2html > livre2html.txt
+
+C:\html\html2>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html\html2
+
+02/17/2023  09:18 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+02/17/2023  09:18 AM                19 livre2html.txt
+               1 File(s)             19 bytes
+               2 Dir(s)  921,456,906,240 bytes free
+
+C:\html\html2>cd ..
+
+C:\html>cd html3
+
+C:\html\html3>echo hello livre3html > livre3html.txt
+
+C:\html\html3>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html\html3
+
+02/17/2023  09:18 AM    <DIR>          .
+02/17/2023  09:07 AM    <DIR>          ..
+02/17/2023  09:18 AM                19 livre3html.txt
+               1 File(s)             19 bytes
+               2 Dir(s)  921,456,709,632 bytes free
+
+C:\html\html3>type livre3html.txt
+hello livre3html
+
+C:\html\html3>cd
+C:\html\html3
+
+C:\html\html3>cd ..
+
+C:\html>cd ..
+
+C:\>cd java
+
+C:\java>cd java
+The system cannot find the path specified.
+
+C:\java>cd java1
+
+C:\java\java1>echo hellolivre1java > livre1java.txt
+
+C:\java\java1>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java\java1
+
+02/17/2023  09:19 AM    <DIR>          .
+02/17/2023  09:08 AM    <DIR>          ..
+02/17/2023  09:19 AM                18 livre1java.txt
+               1 File(s)             18 bytes
+               2 Dir(s)  921,460,588,544 bytes free
+
+C:\java\java1>cd ..
+
+C:\java>cd java2
+
+C:\java\java2>echo hello livre2java > livre2java.txgt
+
+C:\java\java2>echo hello livre2java > livre2java.txt
+
+C:\java\java2>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java\java2
+
+02/17/2023  09:19 AM    <DIR>          .
+02/17/2023  09:08 AM    <DIR>          ..
+02/17/2023  09:19 AM                19 livre2java.txgt
+02/17/2023  09:19 AM                19 livre2java.txt
+               2 File(s)             38 bytes
+               2 Dir(s)  921,455,476,736 bytes free
+
+C:\java\java2>del livre2jva.txgt
+Could Not Find C:\java\java2\livre2jva.txgt
+
+C:\java\java2>del livre2java.txgt
+
+C:\java\java2>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java\java2
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:08 AM    <DIR>          ..
+02/17/2023  09:19 AM                19 livre2java.txt
+               1 File(s)             19 bytes
+               2 Dir(s)  921,455,456,256 bytes free
+
+C:\java\java2>cd ..
+
+C:\java>cd java3
+The system cannot find the path specified.
+
+C:\java>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java
+
+02/17/2023  09:08 AM    <DIR>          .
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:08 AM    <DIR>          jva3
+02/17/2023  09:06 AM                19 livre1java.txt
+               1 File(s)             19 bytes
+               4 Dir(s)  921,454,690,304 bytes free
+
+C:\java>ren jva3 java3
+
+C:\java>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:08 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1java.txt
+               1 File(s)             19 bytes
+               4 Dir(s)  921,454,559,232 bytes free
+
+C:\java>cd java3
+
+C:\java\java3>echo hello livre3java > livre3java.txt
+
+C:\java\java3>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java\java3
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:20 AM    <DIR>          ..
+02/17/2023  09:20 AM                19 livre3java.txt
+               1 File(s)             19 bytes
+               2 Dir(s)  921,454,493,696 bytes free
+
+C:\java\java3>type livre3java.txt
+hello livre3java
+
+C:\java\java3>cd ..
+
+C:\java>cd ..
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/17/2023  09:07 AM    <DIR>          html
+02/17/2023  09:20 AM    <DIR>          java
+02/17/2023  09:07 AM    <DIR>          oracle
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/17/2023  09:09 AM    <DIR>          python
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              10 Dir(s)  921,454,559,232 bytes free
+
+C:\>cd python
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:12 AM    <DIR>          python1
+02/17/2023  09:09 AM    <DIR>          python2
+02/17/2023  09:10 AM    <DIR>          python3
+               2 File(s)             42 bytes
+               4 Dir(s)  921,454,559,232 bytes free
+
+C:\python>cd ..
+
+C:\>cd java
+
+C:\java>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\java
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:20 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1java.txt
+               1 File(s)             19 bytes
+               4 Dir(s)  921,454,493,696 bytes free
+
+C:\java>cd ..
+
+C:\>cd html
+
+C:\html>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:17 AM    <DIR>          html1
+02/17/2023  09:18 AM    <DIR>          html2
+02/17/2023  09:18 AM    <DIR>          html3
+02/17/2023  09:06 AM                19 livre1html.txt
+               1 File(s)             19 bytes
+               4 Dir(s)  921,454,469,120 bytes free
+
+C:\html>cd ..
+
+C:\>mkdir backupfiles
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/17/2023  09:24 AM    <DIR>          backupfiles
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/17/2023  09:07 AM    <DIR>          html
+02/17/2023  09:20 AM    <DIR>          java
+02/17/2023  09:07 AM    <DIR>          oracle
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/17/2023  09:09 AM    <DIR>          python
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              11 Dir(s)  921,455,525,888 bytes free
+
+C:\>cd python
+
+C:\python>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\python
+
+02/17/2023  09:09 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:12 AM    <DIR>          python1
+02/17/2023  09:09 AM    <DIR>          python2
+02/17/2023  09:10 AM    <DIR>          python3
+               2 File(s)             42 bytes
+               4 Dir(s)  921,454,526,464 bytes free
+
+C:\python>cd ..
+
+C:\>xcopy C:\python backupfiles
+C:\python\livre1python.txt
+C:\python\livre2python.txt
+2 File(s) copied
+
+C:\>cd backupfiles
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:28 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+               2 File(s)             42 bytes
+               1 Dir(s)  921,445,740,544 bytes free
+
+C:\backupfiles>cd ..
+
+C:\>xcopy C:\python backupfiles /s/i
+Overwrite C:\backupfiles\livre1python.txt (Yes/No/All)? y
+C:\python\livre1python.txt
+Overwrite C:\backupfiles\livre2python.txt (Yes/No/All)? a
+C:\python\livre2python.txt
+C:\python\python1\livre1python.txt
+C:\python\python2\livre2python.txt
+C:\python\python3\livre3python.txt
+5 File(s) copied
+
+C:\>cd backupfiles
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:30 AM    <DIR>          .
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:30 AM    <DIR>          python1
+02/17/2023  09:30 AM    <DIR>          python2
+02/17/2023  09:30 AM    <DIR>          python3
+               2 File(s)             42 bytes
+               4 Dir(s)  921,442,197,504 bytes free
+
+C:\backupfiles>cd ..
+
+C:\>xcopy C:\oracle backupfiles /s/i
+C:\oracle\livre1oracle.txt
+C:\oracle\oracle1\livre1oracle.txt
+C:\oracle\oracle2\livre2oracle.txt
+C:\oracle\oracle3\livre3oracle.txt
+4 File(s) copied
+
+C:\>xcopy C:\html backupfiles /s/i
+C:\html\livre1html.txt
+C:\html\html1\livre1html.txt
+C:\html\html2\livre2html.txt
+C:\html\html3\livre3html.txt
+4 File(s) copied
+
+C:\>xcopy C:\java backupfiles /s/i
+C:\java\livre1java.txt
+C:\java\java1\livre1java.txt
+C:\java\java2\livre2java.txt
+C:\java\java3\livre3java.txt
+4 File(s) copied
+
+C:\>cd backupfiles
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:31 AM    <DIR>          .
+02/17/2023  09:31 AM    <DIR>          html1
+02/17/2023  09:31 AM    <DIR>          html2
+02/17/2023  09:31 AM    <DIR>          html3
+02/17/2023  09:31 AM    <DIR>          java1
+02/17/2023  09:31 AM    <DIR>          java2
+02/17/2023  09:31 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1html.txt
+02/17/2023  09:06 AM                19 livre1java.txt
+02/17/2023  09:04 AM                21 livre1oracle.txt
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:30 AM    <DIR>          oracle1
+02/17/2023  09:30 AM    <DIR>          oracle2
+02/17/2023  09:30 AM    <DIR>          oracle3
+02/17/2023  09:30 AM    <DIR>          python1
+02/17/2023  09:30 AM    <DIR>          python2
+02/17/2023  09:30 AM    <DIR>          python3
+               5 File(s)            101 bytes
+              13 Dir(s)  921,441,931,264 bytes free
+
+C:\backupfiles>cd html
+The system cannot find the path specified.
+
+C:\backupfiles>
+C:\backupfiles>cd ..
+
+C:\>xcopy C:\java backupfiles /s/i/e
+Overwrite C:\backupfiles\livre1java.txt (Yes/No/All)? a
+C:\java\livre1java.txt
+C:\java\java1\livre1java.txt
+C:\java\java2\livre2java.txt
+C:\java\java3\livre3java.txt
+4 File(s) copied
+
+C:\>cd backupfiles
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:31 AM    <DIR>          html1
+02/17/2023  09:31 AM    <DIR>          html2
+02/17/2023  09:31 AM    <DIR>          html3
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:20 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1html.txt
+02/17/2023  09:06 AM                19 livre1java.txt
+02/17/2023  09:04 AM                21 livre1oracle.txt
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:30 AM    <DIR>          oracle1
+02/17/2023  09:30 AM    <DIR>          oracle2
+02/17/2023  09:30 AM    <DIR>          oracle3
+02/17/2023  09:30 AM    <DIR>          python1
+02/17/2023  09:30 AM    <DIR>          python2
+02/17/2023  09:30 AM    <DIR>          python3
+               5 File(s)            101 bytes
+              13 Dir(s)  921,448,226,816 bytes free
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:31 AM    <DIR>          html1
+02/17/2023  09:31 AM    <DIR>          html2
+02/17/2023  09:31 AM    <DIR>          html3
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:20 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1html.txt
+02/17/2023  09:06 AM                19 livre1java.txt
+02/17/2023  09:04 AM                21 livre1oracle.txt
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:30 AM    <DIR>          oracle1
+02/17/2023  09:30 AM    <DIR>          oracle2
+02/17/2023  09:30 AM    <DIR>          oracle3
+02/17/2023  09:30 AM    <DIR>          python1
+02/17/2023  09:30 AM    <DIR>          python2
+02/17/2023  09:30 AM    <DIR>          python3
+               5 File(s)            101 bytes
+              13 Dir(s)  921,458,520,064 bytes free
+
+C:\backupfiles>cd ..
+
+C:\>xcopy C:\java C:\backupfiles /e/s/i
+Overwrite C:\backupfiles\livre1java.txt (Yes/No/All)? A
+C:\java\livre1java.txt
+C:\java\java1\livre1java.txt
+C:\java\java2\livre2java.txt
+C:\java\java3\livre3java.txt
+4 File(s) copied
+
+C:\>cd backupfiles
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:20 AM    <DIR>          .
+02/17/2023  09:31 AM    <DIR>          html1
+02/17/2023  09:31 AM    <DIR>          html2
+02/17/2023  09:31 AM    <DIR>          html3
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:20 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1html.txt
+02/17/2023  09:06 AM                19 livre1java.txt
+02/17/2023  09:04 AM                21 livre1oracle.txt
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:30 AM    <DIR>          oracle1
+02/17/2023  09:30 AM    <DIR>          oracle2
+02/17/2023  09:30 AM    <DIR>          oracle3
+02/17/2023  09:30 AM    <DIR>          python1
+02/17/2023  09:30 AM    <DIR>          python2
+02/17/2023  09:30 AM    <DIR>          python3
+               5 File(s)            101 bytes
+              13 Dir(s)  921,457,410,048 bytes free
+
+C:\backupfiles>cd ..
+
+C:\>xcopy C:\python\ C:\backupfiles /e/s/i
+Overwrite C:\backupfiles\livre1python.txt (Yes/No/All)? a
+C:\python\livre1python.txt
+C:\python\livre2python.txt
+C:\python\python1\livre1python.txt
+C:\python\python2\livre2python.txt
+C:\python\python3\livre3python.txt
+5 File(s) copied
+
+C:\>xcopy C:\oracle C:\backupfiles /e/s/i
+Overwrite C:\backupfiles\livre1oracle.txt (Yes/No/All)? a
+C:\oracle\livre1oracle.txt
+C:\oracle\oracle1\livre1oracle.txt
+C:\oracle\oracle2\livre2oracle.txt
+C:\oracle\oracle3\livre3oracle.txt
+4 File(s) copied
+
+C:\>xcopy C:\html C:\backupfiles /e/s/i
+Overwrite C:\backupfiles\livre1html.txt (Yes/No/All)? a
+C:\html\livre1html.txt
+C:\html\html1\livre1html.txt
+C:\html\html2\livre2html.txt
+C:\html\html3\livre3html.txt
+4 File(s) copied
+
+C:\>del C:\python
+C:\python\*, Are you sure (Y/N)? Y
+
+C:\>del C:\oracle
+C:\oracle\*, Are you sure (Y/N)? y
+
+C:\>del c:\html
+c:\html\*, Are you sure (Y/N)? y
+
+C:\>del c:\java
+c:\java\*, Are you sure (Y/N)? y
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/17/2023  09:07 AM    <DIR>          backupfiles
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/17/2023  09:43 AM    <DIR>          html
+02/17/2023  09:43 AM    <DIR>          java
+02/17/2023  09:43 AM    <DIR>          oracle
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/17/2023  09:43 AM    <DIR>          python
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              11 Dir(s)  921,439,797,248 bytes free
+
+C:\>cd html
+
+C:\html>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\html
+
+02/17/2023  09:43 AM    <DIR>          .
+02/17/2023  09:17 AM    <DIR>          html1
+02/17/2023  09:18 AM    <DIR>          html2
+02/17/2023  09:18 AM    <DIR>          html3
+               0 File(s)              0 bytes
+               4 Dir(s)  921,436,921,856 bytes free
+
+C:\html>cd ..
+
+C:\>RD /s C:\python
+C:\python, Are you sure (Y/N)? y
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/17/2023  09:07 AM    <DIR>          backupfiles
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/17/2023  09:43 AM    <DIR>          html
+02/17/2023  09:43 AM    <DIR>          java
+02/17/2023  09:43 AM    <DIR>          oracle
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              10 Dir(s)  919,789,363,200 bytes free
+
+C:\>RD /s C:\oracle
+C:\oracle, Are you sure (Y/N)? y
+
+C:\>RD /s C:\java
+C:\java, Are you sure (Y/N)? Y
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/17/2023  09:07 AM    <DIR>          backupfiles
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/17/2023  09:43 AM    <DIR>          html
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+               8 Dir(s)  919,789,187,072 bytes free
+
+C:\>RD /s C:\html
+C:\html, Are you sure (Y/N)? Y
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\
+
+02/17/2023  09:07 AM    <DIR>          backupfiles
+02/08/2023  09:23 PM    <DIR>          eSupport
+02/08/2023  09:21 PM    <DIR>          focaltech
+02/16/2023  09:26 PM    <DIR>          Program Files
+02/11/2023  12:37 AM    <DIR>          Program Files (x86)
+02/08/2023  06:51 PM    <DIR>          Users
+02/08/2023  07:04 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+               7 Dir(s)  919,781,588,992 bytes free
+
+C:\>
+C:\>cd backupfiles
+
+C:\backupfiles>dir
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\backupfiles
+
+02/17/2023  09:07 AM    <DIR>          .
+02/17/2023  09:17 AM    <DIR>          html1
+02/17/2023  09:18 AM    <DIR>          html2
+02/17/2023  09:18 AM    <DIR>          html3
+02/17/2023  09:19 AM    <DIR>          java1
+02/17/2023  09:20 AM    <DIR>          java2
+02/17/2023  09:20 AM    <DIR>          java3
+02/17/2023  09:06 AM                19 livre1html.txt
+02/17/2023  09:06 AM                19 livre1java.txt
+02/17/2023  09:04 AM                21 livre1oracle.txt
+02/17/2023  09:03 AM                21 livre1python.txt
+02/17/2023  09:09 AM                21 livre2python.txt
+02/17/2023  09:15 AM    <DIR>          oracle1
+02/17/2023  09:16 AM    <DIR>          oracle2
+02/17/2023  09:17 AM    <DIR>          oracle3
+02/17/2023  09:12 AM    <DIR>          python1
+02/17/2023  09:09 AM    <DIR>          python2
+02/17/2023  09:10 AM    <DIR>          python3
+               5 File(s)            101 bytes
+              13 Dir(s)  919,779,856,384 bytes free

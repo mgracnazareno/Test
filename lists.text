@@ -1,0 +1,24 @@
+@echo off
+Rem This is for listing down all the files in the directory Program files 
+dir "C:\Program Files" > C:\lists.txt 
+echo "The program has completed"
+
+ Volume in drive C is OS
+ Volume Serial Number is 8493-99E6
+
+ Directory of C:\Users\mgrac\Test
+
+02/09/2023  04:07 PM    <DIR>          .
+02/09/2023  03:12 PM    <DIR>          ..
+02/09/2023  04:11 PM               164 compile.bat
+02/09/2023  03:23 PM               163 dirfiles.bat
+02/09/2023  03:48 PM               420 Example.class
+02/09/2023  04:07 PM               430 FirstProgram.class
+02/09/2023  04:03 PM               122 FirstProgram.java
+02/09/2023  04:05 PM               124 HelloWorld.java
+02/09/2023  03:37 PM               163 lists.bat
+02/09/2023  03:25 PM               163 lists.text
+02/09/2023  03:47 PM               741 result.txt
+02/09/2023  04:02 PM                 0 results.text
+              10 File(s)          2,490 bytes
+               2 Dir(s)  949,155,090,432 bytes free
